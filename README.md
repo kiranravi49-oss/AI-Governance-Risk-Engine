@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![AI Governance](https://img.shields.io/badge/Focus-AI%20Governance-purple)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Framework](https://img.shields.io/badge/Type-Governance%20Framework-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # AI Governance Risk Engine
 
 ## Executive Summary
