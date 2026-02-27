@@ -78,13 +78,13 @@ This indicates acceptable performance but fairness risk exposure.
 
 AI_Governance_Risk_Engine/
 │
-├── data/              # Dataset storage  
-├── notebooks/         # Model experimentation  
-├── src/               # Core governance scoring logic  
-├── dashboard/         # (Future) Visualization layer  
-├── models/            # Model artifacts  
-├── reports/           # Governance evaluation outputs  
-└── requirements.txt   # Dependencies
+├── data/                # Dataset storage  
+├── notebooks/           # Model experimentation  
+├── src/                 # Core governance scoring logic  
+├── dashboard/           # (Future) Visualization layer  
+├── models/              # Model artifacts  
+├── reports/             # Governance evaluation outputs  
+└── requirements.txt     # Dependencies
 
 ---
 
