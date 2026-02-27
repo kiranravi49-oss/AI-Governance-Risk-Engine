@@ -55,11 +55,9 @@ The engine evaluates models across three pillars:
 ## Final Governance Index
 
 Governance Index =
-
 0.4 × Performance Score  
 + 0.4 × Fairness Score  
 + 0.2 × Imbalance Score  
-
 This produces a normalized governance rating out of 100.
 
 ---
