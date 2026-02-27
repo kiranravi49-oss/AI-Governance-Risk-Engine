@@ -59,7 +59,9 @@ Governance Index =
 + 0.4 × Fairness Score  
 + 0.2 × Imbalance Score  
 
-This produces a normalized governance rating out of 100.---
+This produces a normalized governance rating out of 100.
+
+---
 
 ## Sample Output
 
