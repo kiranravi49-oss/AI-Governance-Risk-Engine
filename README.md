@@ -51,16 +51,15 @@ The engine evaluates models across three pillars:
 - Minority class representation ratio
 
 ---
-
 ## Final Governance Index
 
 Governance Index =
+
 0.4 × Performance Score  
 + 0.4 × Fairness Score  
 + 0.2 × Imbalance Score  
-This produces a normalized governance rating out of 100.
 
----
+This produces a normalized governance rating out of 100.---
 
 ## Sample Output
 
