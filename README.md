@@ -79,6 +79,12 @@ This produces a normalized governance rating out of 100.
 This indicates acceptable performance but fairness risk exposure.
 
 ---
+## Governance Architecture
+
+The governance engine follows a layered evaluation approach:
+
+![AI Governance Architecture](assets/ai_governance_architecture.png)
+---
 
 ## Repository Structure
 
