@@ -78,6 +78,7 @@ This indicates acceptable performance but fairness risk exposure.
 
 AI_Governance_Risk_Engine/
 │
+│
 ├── data/                # Dataset storage  
 ├── notebooks/           # Model experimentation  
 ├── src/                 # Core governance scoring logic  
