@@ -83,7 +83,7 @@ This indicates acceptable performance but fairness risk exposure.
 
 The governance engine follows a layered evaluation approach:
 
-![AI Governance Architecture](assets/ai_governance_architecture.png)
+![AI Governance Architecture](assets/AI_Governance_Architecture.png)
 ---
 
 ## Repository Structure
